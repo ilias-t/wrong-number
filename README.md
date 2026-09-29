@@ -2,6 +2,8 @@
 
 *Notes, but every note gets its own stranger.*
 
+**Try it:** https://iliastsangaris.com/wrong-number/
+
 Every notes app eventually loses your notes. Wrong Number fixes this by never keeping them in the first place. When you write a note, we text it to a randomly selected stranger, who becomes its sole custodian. Want to add to a note? Just keep texting the same stranger. Want a new note? That's a new stranger, every time, no exceptions. Retrieval is on the roadmap. Distributed, human-in-the-loop, zero-knowledge storage: we have zero knowledge of where your notes are, and so do you.
 
 ## How to run
